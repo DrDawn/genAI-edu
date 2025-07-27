@@ -1,6 +1,6 @@
 {
     "id": "30FB0F27",
-    "path": "C:/Users/dawnw/DawnsDesk/R and R Studio/gen_ai_resources/_quarto.yml",
+    "path": "C:/Users/dawnw/DawnsDocs/git_repos/genAI-edu/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,18",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753563805,
+    "lastKnownWriteTime": 1753564796,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753563805,
+    "last_content_update": 1753564796728,
     "read_only": false,
     "read_only_alternatives": []
 }

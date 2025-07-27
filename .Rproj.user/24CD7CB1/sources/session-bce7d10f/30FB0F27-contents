@@ -1,9 +1,10 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "gen_ai_resources"
-  author: "Norah Jones"
+  title: "Generative AI Resources for Educators"
+  author: "Dawn E Wright, Ph.D."
   date: "7/26/2025"
   chapters:
     - index.qmd
